@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="cclEx3_union1.svg"
-   inkscape:export-filename="/home/tomasz/skrypty/skrypt_poc/skrypt_poc/ccl/images/cclEx3_union1.svg.png"
+   inkscape:export-filename="/home/tomasz/skrypty/skrypt_poc/python_jupyter/POC_GIT_REPO/13_CCL/cclEx3_union1.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -25,10 +25,10 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="200.83668"
+     inkscape:cx="112.70087"
      inkscape:cy="55.288159"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -41,7 +41,8 @@
      inkscape:window-height="1025"
      inkscape:window-x="67"
      inkscape:window-y="27"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="true">
     <inkscape:grid
        type="xygrid"
        id="grid4637"
@@ -62,7 +63,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
